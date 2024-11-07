@@ -1,0 +1,9 @@
+C:/Users/birgi/source/repos/e_commerce_system/bin/Debug/e_commerce_system.exe.config
+C:/Users/birgi/source/repos/e_commerce_system/bin/Debug/e_commerce_system.exe
+C:/Users/birgi/source/repos/e_commerce_system/bin/Debug/e_commerce_system.pdb
+C:/Users/birgi/source/repos/e_commerce_system/obj/Debug/e_commerce_system.csproj.AssemblyReference.cache
+C:/Users/birgi/source/repos/e_commerce_system/obj/Debug/e_commerce_system.csproj.CoreCompileInputs.cache
+C:/Users/birgi/source/repos/e_commerce_system/obj/Debug/e_commerce_system.exe
+C:/Users/birgi/source/repos/e_commerce_system/obj/Debug/e_commerce_system.pdb
+/home/gur/Downloads/e_commerce_system/obj/Debug/e_commerce_system.exe
+/home/gur/Downloads/e_commerce_system/obj/Debug/e_commerce_system.pdb

@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\birgi\\source\\repos\\e_commerce_system\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB140C-6048-41C7-9848-ED488936502E}|e_commerce_system.csproj|C:\\Users\\birgi\\source\\repos\\e_commerce_system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB140C-6048-41C7-9848-ED488936502E}|e_commerce_system.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB140C-6048-41C7-9848-ED488936502E}|e_commerce_system.csproj|C:\\Users\\birgi\\source\\repos\\e_commerce_system\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB140C-6048-41C7-9848-ED488936502E}|e_commerce_system.csproj|solutionrelative:order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB140C-6048-41C7-9848-ED488936502E}|e_commerce_system.csproj|c:\\users\\birgi\\source\\repos\\e_commerce_system\\administrative_department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB140C-6048-41C7-9848-ED488936502E}|e_commerce_system.csproj|solutionrelative:administrative_department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB140C-6048-41C7-9848-ED488936502E}|e_commerce_system.csproj|C:\\Users\\birgi\\source\\repos\\e_commerce_system\\packagedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB140C-6048-41C7-9848-ED488936502E}|e_commerce_system.csproj|solutionrelative:packagedproduct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB140C-6048-41C7-9848-ED488936502E}|e_commerce_system.csproj|C:\\Users\\birgi\\source\\repos\\e_commerce_system\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB140C-6048-41C7-9848-ED488936502E}|e_commerce_system.csproj|solutionrelative:product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB140C-6048-41C7-9848-ED488936502E}|e_commerce_system.csproj|C:\\Users\\birgi\\source\\repos\\e_commerce_system\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB140C-6048-41C7-9848-ED488936502E}|e_commerce_system.csproj|solutionrelative:address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB140C-6048-41C7-9848-ED488936502E}|e_commerce_system.csproj|C:\\Users\\birgi\\source\\repos\\e_commerce_system\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB140C-6048-41C7-9848-ED488936502E}|e_commerce_system.csproj|solutionrelative:user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB140C-6048-41C7-9848-ED488936502E}|e_commerce_system.csproj|C:\\Users\\birgi\\source\\repos\\e_commerce_system\\seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB140C-6048-41C7-9848-ED488936502E}|e_commerce_system.csproj|solutionrelative:seller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{05AB140C-6048-41C7-9848-ED488936502E}|e_commerce_system.csproj|C:\\Users\\birgi\\source\\repos\\e_commerce_system\\buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{05AB140C-6048-41C7-9848-ED488936502E}|e_commerce_system.csproj|solutionrelative:buyer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Administrative_Department.cs",
+              "DocumentMoniker": "C:\\Users\\birgi\\source\\repos\\e_commerce_system\\Administrative_Department.cs",
+              "RelativeDocumentMoniker": "Administrative_Department.cs",
+              "ToolTip": "C:\\Users\\birgi\\source\\repos\\e_commerce_system\\Administrative_Department.cs",
+              "RelativeToolTip": "Administrative_Department.cs",
+              "ViewState": "AQIAALQBAAAAAAAAAAAawJMCAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-10T16:38:06.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\birgi\\source\\repos\\e_commerce_system\\Product.cs",
+              "RelativeDocumentMoniker": "Product.cs",
+              "ToolTip": "C:\\Users\\birgi\\source\\repos\\e_commerce_system\\Product.cs",
+              "RelativeToolTip": "Product.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwDMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:18:23.392Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PackagedProduct.cs",
+              "DocumentMoniker": "C:\\Users\\birgi\\source\\repos\\e_commerce_system\\PackagedProduct.cs",
+              "RelativeDocumentMoniker": "PackagedProduct.cs",
+              "ToolTip": "C:\\Users\\birgi\\source\\repos\\e_commerce_system\\PackagedProduct.cs",
+              "RelativeToolTip": "PackagedProduct.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAwBEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:18:22.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\birgi\\source\\repos\\e_commerce_system\\Order.cs",
+              "RelativeDocumentMoniker": "Order.cs",
+              "ToolTip": "C:\\Users\\birgi\\source\\repos\\e_commerce_system\\Order.cs",
+              "RelativeToolTip": "Order.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAIAtwCcAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:18:21.985Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Buyer.cs",
+              "DocumentMoniker": "C:\\Users\\birgi\\source\\repos\\e_commerce_system\\Buyer.cs",
+              "RelativeDocumentMoniker": "Buyer.cs",
+              "ToolTip": "C:\\Users\\birgi\\source\\repos\\e_commerce_system\\Buyer.cs",
+              "RelativeToolTip": "Buyer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:18:21.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Address.cs",
+              "DocumentMoniker": "C:\\Users\\birgi\\source\\repos\\e_commerce_system\\Address.cs",
+              "RelativeDocumentMoniker": "Address.cs",
+              "ToolTip": "C:\\Users\\birgi\\source\\repos\\e_commerce_system\\Address.cs",
+              "RelativeToolTip": "Address.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:18:18.872Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\birgi\\source\\repos\\e_commerce_system\\User.cs",
+              "RelativeDocumentMoniker": "User.cs",
+              "ToolTip": "C:\\Users\\birgi\\source\\repos\\e_commerce_system\\User.cs",
+              "RelativeToolTip": "User.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAiwEMAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:16:46.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Seller.cs",
+              "DocumentMoniker": "C:\\Users\\birgi\\source\\repos\\e_commerce_system\\Seller.cs",
+              "RelativeDocumentMoniker": "Seller.cs",
+              "ToolTip": "C:\\Users\\birgi\\source\\repos\\e_commerce_system\\Seller.cs",
+              "RelativeToolTip": "Seller.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:16:49.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\birgi\\source\\repos\\e_commerce_system\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\birgi\\source\\repos\\e_commerce_system\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAOQBAAAAAAAAAAAAAO4BAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-07T14:02:32.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
